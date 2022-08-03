@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #DEE1E6;
+}
+h1,h2,h3{
+    text-align: center;
+}
+.container{
+    background-color:#19243B ;
+    width: 100%;
+    height: 230px;
+}
+#thru{
+    color: white;
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    font-size: 90px;
+}
+.fotter{
+    background-color:#19243B ;
+    color: white;
+    display: inline-block;
+    width: 100%;
+    height: 230px;
+}
+#text{
+    margin-left: 10%;
+    font-size: 16px;
+}
+td{
+    padding: 10px 10px;
+}
